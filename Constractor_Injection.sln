@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constractor_Injection", "Constractor_Injection\Constractor_Injection.csproj", "{BC723DE8-7E4B-4F15-8170-C9E17B1525FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC723DE8-7E4B-4F15-8170-C9E17B1525FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC723DE8-7E4B-4F15-8170-C9E17B1525FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC723DE8-7E4B-4F15-8170-C9E17B1525FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC723DE8-7E4B-4F15-8170-C9E17B1525FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE07191-A1B0-44DF-AF33-C666F36D6181}
+	EndGlobalSection
+EndGlobal
